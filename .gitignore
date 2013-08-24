@@ -15,7 +15,6 @@ earth/temp-july
 moon/clementine
 
 # Tiles
-earth/*/0
 earth/*/1
 earth/*/2
 earth/*/3
@@ -35,7 +34,6 @@ earth/*/16
 earth/*/17
 earth/*/18
 earth/*/19
-moon/*/0
 moon/*/1
 moon/*/2
 moon/*/3
