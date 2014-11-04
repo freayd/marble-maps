@@ -9,3 +9,4 @@ Map list
 * Google Maps
 * Google Maps Satellite
 * Google Maps Terrain
+* MapQuest
