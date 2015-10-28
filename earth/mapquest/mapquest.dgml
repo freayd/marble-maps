@@ -59,7 +59,7 @@ p, li { white-space: pre-wrap; }
         </map>
         <settings>
             <property name="coordinate-grid">
-                <value>false</value>
+                <value>true</value>
                 <available>true</available>
             </property>
             <property name="overviewmap">
@@ -74,6 +74,30 @@ p, li { white-space: pre-wrap; }
                 <value>true</value>
                 <available>true</available>
             </property>
+            <group name="Places">
+                <property name="places">
+                    <value>true</value>
+                    <available>true</available>
+                </property>
+                <property name="cities">
+                    <value>false</value>
+                    <available>false</available>
+                </property>
+                <property name="terrain">
+                    <value>false</value>
+                    <available>false</available>
+                </property>
+                <property name="otherplaces">
+                    <value>false</value>
+                    <available>false</available>
+                </property>
+            </group>
+            <group name="Texture Layers">
+                <property name="hillshading">
+                    <value>false</value>
+                    <available>true</available>
+                </property>
+            </group>
         </settings>
         <legend/>
     </document>
