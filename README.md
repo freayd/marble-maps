@@ -9,7 +9,6 @@ Map list
 * Google Maps
 * Google Maps Satellite
 * Google Maps Terrain
-* MapQuest
 * Thunderforest Cycle
 * Thunderforest Landscape
 * Thunderforest Outdoors
