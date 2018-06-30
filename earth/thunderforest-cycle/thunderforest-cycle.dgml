@@ -27,9 +27,9 @@ p, li { white-space: pre-wrap; }
                     <tileSize width="256" height="256" />
                     <storageLayout levelZeroColumns="1" levelZeroRows="1" maximumTileLevel="18" mode="OpenStreetMap" />
                     <projection name="Mercator" />
-                    <downloadUrl protocol="https" host="a.tile.thunderforest.com" path="cycle/" />
-                    <downloadUrl protocol="https" host="b.tile.thunderforest.com" path="cycle/" />
-                    <downloadUrl protocol="https" host="c.tile.thunderforest.com" path="cycle/" />
+                    <downloadUrl protocol="https" host="a.tile.thunderforest.com" path="/cycle/" />
+                    <downloadUrl protocol="https" host="b.tile.thunderforest.com" path="/cycle/" />
+                    <downloadUrl protocol="https" host="c.tile.thunderforest.com" path="/cycle/" />
                     <downloadPolicy usage="Browse" maximumConnections="20" />
                     <downloadPolicy usage="Bulk" maximumConnections="4" />
                 </texture>
